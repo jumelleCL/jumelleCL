@@ -4,7 +4,7 @@
 - 📫 Contáctame por **jumellecamilo@gmail.com**
 
 
-- 👨‍💻 Mi portafolio esta en [https://github.com/jumelleCL/Portfoli](https://github.com/jumelleCL/Portfoli)
+- 👨‍💻 Mi portafolio esta en [https://github.com/jumelleCL/Portfoli](https://github.com/jumelleCL/Portfolio)
 
 ## Proyectos CFGS 
 ### Practicas del instituto Nicolau Copèrnic:
