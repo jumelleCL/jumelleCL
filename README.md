@@ -1,30 +1,17 @@
 # Camilo Jumelle
 **` Estudiante en Nicolau Copernic (DAW) `**
 
-- 📫 Contáctame por **jumellecamilo@gmail.com**
+## Contacto: 
 
-
-- 👨‍💻 Mi portafolioWeb esta [acá](https://jumelle-camilo.netlify.app)
-
-## Proyectos CFGS 
-### Practicas del instituto Nicolau Copèrnic:
-- [BaseDeDatos](https://github.com/jumelleCL/bd-practices)
-- [LlenguatgeDeMarques](https://github.com/jumelleCL/llenguatgeMarques)
-- [Programacion](https://github.com/jumelleCL/java-practices)
-
-## Proyectos Personales
-### Practicas para aprender varios lenguajes de manera autodidacta:
-- [C++](https://github.com/jumelleCL/cpp-practices)
-- [Python](https://github.com/jumelleCL/python-practices)
-
-## Contacto:
 <p align="left">
+<a href="mailto:jumellecamilo@gmail.com"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" alt="jumellecamilo@gmail.com" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jumelle-camilo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/camilo-jumelle/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@miloolykaios1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@miloolykaios1" height="30" width="40" /></a>
 </p>
 
+- 👨‍💻 Mi portfolioWeb esta [acá](https://jumelle-camilo.netlify.app)
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Lenguajes y herramientas:</h2>
 <p align="left"> 
 Front End
 
