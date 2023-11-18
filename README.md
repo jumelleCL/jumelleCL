@@ -9,7 +9,7 @@
 <!-- <a href="https://www.hackerrank.com/@miloolykaios1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@miloolykaios1" height="30" width="40" /></a> -->
 </p>
 
-- 👨‍💻 Mi portfolioWeb esta [acá](https://jumelle-camilo.netlify.app)
+👨‍💻 Mi portfolioWeb esta [acá](https://jumelle-camilo.netlify.app)
 
 <h2 align="left">Lenguajes y herramientas:</h2>
 <p align="left"> 
