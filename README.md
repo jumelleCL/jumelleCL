@@ -42,7 +42,7 @@
 
 <div style="display: flex; align-items: center; margin-bottom: 50px; flex-wrap: wrap; ">
   <img src="assets/images/git.png" alt="Git" width="40"style="flex: 0 1 18%; margin: 5px;"/>
-  <img src="assets/images/Laravel.png" alt="Laravel" width="40"style="flex: 0 1 18%; margin: 5px;"/>
+  <img src="assets/images/laravel.png" alt="Laravel" width="40"style="flex: 0 1 18%; margin: 5px;"/>
   <img src="assets/images/xml.png" alt="xml" width="40"style="flex: 0 1 18%; margin: 5px;"/>
   <img src="assets/images/docker.png" alt="Docker" width="40"style="flex: 0 1 18%; margin: 5px;"/>
   <img src="assets/images/vagrant.png" alt="Vagrant" width="40"style="flex: 0 1 18%; margin: 5px;"/>
