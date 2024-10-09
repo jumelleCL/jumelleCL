@@ -55,5 +55,5 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ***
-
+![CodeWars](https://www.codewars.com/users/jumelleCL/badges/small)
 ![Estadísticas](https://github-readme-stats.vercel.app/api/top-langs?username=jumellecl&show_icons=true&theme=dark&title_color=ebe5e5&text_color=c0b4b4&bg_color=755757&hide_border=true&locale=en&layout=compact)
