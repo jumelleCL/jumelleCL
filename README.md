@@ -1,6 +1,4 @@
-# Camilo Jumelle
-
-**` Desarollador Web Junior / Junior Web Developer `**
+# ![Banner: Camilo Jumelle web developer](files/header.png)
 
 ## Contacto / Contact
 
