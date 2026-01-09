@@ -1,10 +1,5 @@
-<h1 align="center">👋 Hey, I'm Camilo</h1>
+<h1 align="center"><img src="img/banner.png" alt="Hey Im Camilo"/></h1>
 
-<h2>
-Web & Game Developer | Frontend, Backend & Game Engines
-</h2>
-
----
 
 ## 📫 Let's Connect
 <p align="center">
@@ -18,15 +13,15 @@ Web & Game Developer | Frontend, Backend & Game Engines
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" />
   </a>
 </p>
-
----
-
+<br><br>
+<p align ="center">╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━∙⋆⋅⋆∙━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯</p>
+<br><br>
 ## 💻 Tech Stack
 <table align="center">
 <tr>
-<th align="center">🎨 ✦✧✦ <strong>Frontend</strong> ✦✧✦ 🎨</th>
-<th align="center">⚙️ ✦✧✦ <strong>Backend & APIs</strong> ✦✧✦ ⚙️</th>
-<th align="center">🎮 ✦✧✦ <strong>Game Dev & VR</strong> ✦✧✦ 🎮</th>
+<th align="center">🎨 ˗ˏˋ ୨<strong>Frontend</strong>୧ ´ˎ˗ 🎨</th>
+<th align="center">⚙️ ˗ˏˋ ୨<strong>Backend & APIs</strong>୧ ´ˎ˗ ⚙️</th>
+<th align="center">🎮 ˗ˏˋ ୨<strong>Game Dev & VR</strong>୧ ´ˎ˗ 🎮</th>
 </tr>
 <tr>
 <td align="center">
@@ -59,9 +54,9 @@ Web & Game Developer | Frontend, Backend & Game Engines
 </td>
 </tr>
 <tr>
-<th align="center">🗄️ ✦✧✦ <strong>Databases & Tools</strong> ✦✧✦ 🗄️</th>
-<th align="center">☁️ ✦✧✦ <strong>Cloud & Dev Tools</strong> ✦✧✦ ☁️</th>
-<th align="center">🧪 ✦✧✦ <strong>Testing & Misc</strong> ✦✧✦ 🧪</th>
+<th align="center">🗄️ ˗ˏˋ ୨<strong>Databases & Tools</strong>୧ ´ˎ˗ 🗄️</th>
+<th align="center">☁️ ˗ˏˋ ୨<strong>Cloud & Dev Tools</strong>୧ ´ˎ˗ ☁️</th>
+<th align="center">🧪 ˗ˏˋ ୨<strong>Testing & Misc</strong>୧ ´ˎ˗ 🧪</th>
 </tr>
 <tr>
 <td align="center">
@@ -81,10 +76,9 @@ Web & Game Developer | Frontend, Backend & Game Engines
 </td>
 </tr>
 </table>
-
-
-
----
+<br><br><br><br>
+<p align ="center">╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━∙⋆⋅⋆∙━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯</p>
+<br><br>
 
 ## 🚀 Top Projects
 
@@ -132,5 +126,15 @@ A small React UI library published on npm with pre-built and customizable compon
 A turn-based strategy game made in Unreal Engine about cat mages fighting for territory.<br><br>
 <a href="https://github.com/jumelleCL/estrategia-2025-camilo-jumelle" target="_blank">See project</a>
 </td>
+</tr>
+</table>
+<br><br><br><br>
+<p align ="center">╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━∙⋆⋅⋆∙━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯</p>
+<br><br>
+<table width="100%">
+<tr>
+  <td align="left">︾ ︾ ︾</td>
+  <td align="center"><h2>˗ˏˋ ୨ Check out my repos ୧ ´ˎ˗</h2></td>
+  <td align="right">︾ ︾ ︾</td>
 </tr>
 </table>
