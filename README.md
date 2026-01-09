@@ -1,22 +1,21 @@
 <h1 align="center"><img src="img/banner.png" alt="Hey Im Camilo"/></h1>
-
-
-## 📫 Let's Connect
-<p align="center">
-  <a href="mailto:jumellecamilo@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/jumelle-camilo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" />
-  </a>
-  <a href="https://discord.com/users/893553232956260352" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" />
-  </a>
 </p>
 <br><br>
-<p align ="center">╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━∙⋆⋅⋆∙━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯</p>
-<br><br>
-## 💻 Tech Stack
+
+<h2 align="center">»»———-　📫 Let's Connect 📫　———-««</h2>
+<p align="center">
+  <a href="mailto:jumellecamilo@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat"  height="80" width="100" />
+  </a>
+  <a href="https://www.linkedin.com/in/jumelle-camilo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="80" width="98"  />
+  </a>
+  <a href="https://discord.com/users/893553232956260352" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="80" width="115"  />
+  </a>
+<br><br><br><br>
+
+<h2 align="center">»»———-　💻 Tech Stack 💻　———-««</h2><br><br>
 <table align="center">
 <tr>
 <th align="center">🎨 ˗ˏˋ ୨<strong>Frontend</strong>୧ ´ˎ˗ 🎨</th>
@@ -80,7 +79,7 @@
 <p align ="center">╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━∙⋆⋅⋆∙━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯</p>
 <br><br>
 
-## 🚀 Top Projects
+<h2 align="center">»»———-　🚀 Top Projects 🚀　———-««</h2><br><br>
 
 <table align="center" width="100%">
 <tr>
@@ -131,10 +130,6 @@ A turn-based strategy game made in Unreal Engine about cat mages fighting for te
 <br><br><br><br>
 <p align ="center">╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━∙⋆⋅⋆∙━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯</p>
 <br><br>
-<table width="100%">
-<tr>
-  <td align="left">︾ ︾ ︾</td>
-  <td align="center"><h2>˗ˏˋ ୨ Check out my repos ୧ ´ˎ˗</h2></td>
-  <td align="right">︾ ︾ ︾</td>
-</tr>
-</table>
+<div align="center"><h2>˗ˏˋ ୨ Check out my repos ୧ ´ˎ˗</h2></div>
+<div align="left">︾ ︾ ︾ ︾ ︾ ︾ ︾ ︾ ︾</div>
+<div align="right">︾ ︾ ︾ ︾ ︾ ︾ ︾ ︾ ︾</div>
