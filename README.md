@@ -5,13 +5,13 @@
 <h2 align="center">»»———-　📫 Let's Connect 📫　———-««</h2>
 <p align="center">
   <a href="mailto:jumellecamilo@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat"  height="80" width="100" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" width="100" />
   </a>
   <a href="https://www.linkedin.com/in/jumelle-camilo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="80" width="98"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" width="98"  />
   </a>
   <a href="https://discord.com/users/893553232956260352" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="80" width="115"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" width="115"  />
   </a>
 <br><br><br><br>
 
